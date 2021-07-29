@@ -1,2 +1,16 @@
 # Project exclude paths
 /out/
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/dbnavigator.xml
+/.idea/description.html
+/directions.txt
+/directions_big.txt
+/InputOutput.iml
+/locations.txt
+/locations_big.txt
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/copyright/profiles_settings.xml
+/.idea/project-template.xml
+/.idea/vcs.xml
